@@ -1,10 +1,11 @@
 # simpleslug
 
-This is a basic library to generate slugs from a string.
+[![Build Status](https://travis-ci.org/backd-io/simpleslug.svg?branch=master)](https://travis-ci.org/backd-io/simpleslug)
+
+This is a (in excess) basic library to generate slugs from a string.
 
 
 Simple Usage
-
 
 ```
 package main
